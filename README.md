@@ -1,8 +1,15 @@
 # MKT Jetton
+[![TON](https://img.shields.io/badge/based%20on-TON-blue)](https://ton.org/)
+[![License](https://img.shields.io/badge/license-GPL--3.0-brightgreen)](https://opensource.org/licenses/GPL-3.0)
+
 
 Jetton forked from https://github.com/ton-blockchain/stablecoin-contract but with removed governance functionality.
-# Details
 
+## Contract deployments
+The current version of DEX contracts are deployed at the following addresses:
+- `EQCwIZ02qbNmmYdw1BY8RdvKcb62rA5YshwE571C7Sul_MKT` for [mainnet](https://tonviewer.com/EQCwIZ02qbNmmYdw1BY8RdvKcb62rA5YshwE571C7Sul_MKT)
+
+# Details
 
 MKT represents a [standard TON jetton smart contracts](https://github.com/ton-blockchain/token-contract/tree/369ae089255edbd807eb499792a0a838c2e1b272/ft) with additional functionality:
 
